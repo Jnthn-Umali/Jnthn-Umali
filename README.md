@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Jonathan!
 
-I'm a developer exploring modern technologies across web, mobile, and software development. I enjoy building practical projects that solve real-world problems and continuously improving my skills across both front-end and back-end systems.
+I'm a developer working across web, mobile, and intelligent systems. I build real-world applications, including an AI-powered assistive system using computer vision (YOLO) and OCR to help visually impaired users understand their surroundings.
 
 ---
 
@@ -20,6 +20,12 @@ I'm a developer exploring modern technologies across web, mobile, and software d
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### 🤖 AI & Computer Vision:
+<p>
+  <img src="https://img.shields.io/badge/Computer%20Vision-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OCR-5C2D91?style=for-the-badge" />
 </p>
 
 ### 🗄️ Backend & Database:
