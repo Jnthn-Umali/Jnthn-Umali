@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Jonathan!
 
-I'm a developer working across web, mobile, and intelligent systems. I build real-world applications, including an AI-powered assistive system using computer vision (YOLO) and OCR to help visually impaired users understand their surroundings.
+I'm a developer exploring modern technologies across web, mobile, and software development. I enjoy building practical projects that solve real-world problems and continuously improving my skills across both front-end and back-end systems.
 
 ---
 
