@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Jonathan!
 
-I'm an aspiring web developer exploring the world of modern development. I enjoy building practical projects that solve real-world problems and continuously improving my skills across both front-end and back-end technologies.
+I'm a developer exploring modern technologies across web, mobile, and software development. I enjoy building practical projects that solve real-world problems and continuously improving my skills across both front-end and back-end systems.
 
 ---
 
